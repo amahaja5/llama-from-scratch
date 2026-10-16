@@ -1,1 +1,7 @@
-.llama/
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+checkpoints/
+*.pt
+.DS_Store
